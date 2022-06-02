@@ -2,7 +2,6 @@
   Hi there 👋🏼
 </h1>
 
-## About me
 I`m **@FireworksX** or just **Arthur**. Software engineer from Russia 🇷🇺
 
 I really like work/create at Startups 🚀. Currently creating startup for travelers which names **Checkpoint**.
